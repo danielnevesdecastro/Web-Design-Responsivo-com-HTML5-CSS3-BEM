@@ -1,0 +1,30 @@
+h1{
+  background: blue;
+  width: 500px;
+  color: white;
+  height: 100px;
+}
+
+#titulo, .missao, .introducao{
+ font-family: Arial;
+ background: red;
+ width: 500px;
+ height: 100px;
+}
+
+
+.introducao{
+  box-sizing: border-box;
+  color: white;
+  border: 10px solid yellow;
+  padding: 20px;
+}
+
+
+.missao{
+  box-sizing: border-box;
+  color: white;
+  border: 20px solid blue;
+  padding: px;
+
+}
