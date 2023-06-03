@@ -1,3 +1,7 @@
+*{
+   box-sizing: border-box;
+}
+
 h1{
   background: blue;
   width: 500px;
@@ -14,15 +18,15 @@ h1{
 
 
 .introducao{
-  box-sizing: border-box;
+ 
   color: white;
-  border: 10px solid yellow;
-  padding: 20px;
+  border: 50px solid yellow;
+  padding: 40px;
 }
 
 
 .missao{
-  box-sizing: border-box;
+  
   color: white;
   border: 20px solid blue;
   padding: px;
