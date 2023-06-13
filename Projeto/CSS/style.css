@@ -81,4 +81,11 @@ article > footer{
 	padding: 12px 16px;
 	text-decoration: none;
 	border-radius: 8px;
+	transition: 1s background;
+
+}
+
+.botao:hover , .botao:focus{
+	background-color: red;
+	transform: scale(1.2);
 }
